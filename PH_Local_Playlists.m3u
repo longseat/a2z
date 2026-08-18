@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="GTV",GTV
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="TV5",TV5
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="A2Z",A2Z
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="ALLTV",ALLTV
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-name="ANC",ANC
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="IBC 13",IBC 13
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="GMA 7",GMA 7
+https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="Kapamilya Channel HD",Kapamilya Channel HD
+https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="PTV",PTV
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="One Sports",One Sports
+https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="RPTV",RPTV
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="Net 25",Net 25
+https://streams.comclark.com/pknsd/net_25/playlist.m3u8
+#EXTINF:-1 group-title="Music & Entertainment" tvg-name="MYX",MYX
+https://streams.comclark.com/pknsd/myx/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Thrill",Thrill
+https://streams.comclark.com/pknsd/thrill/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="UNTV",UNTV
+https://streams.comclark.com/pknsd/untv/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-name="INC TV",INC TV
+https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="TMC",TMC
+https://streams.comclark.com/pknsd/tmc/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Solar Sports",Solar Sports
+https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Solar Flix",Solar Flix
+https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="PBO - Pinoy Box Office",PBO - Pinoy Box Office
+https://streams.comclark.com/pknsd/pbo/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-name="DZRH News",DZRH News
+https://streams.comclark.com/pknsd/dzrh/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Cinemo",Cinemo
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Cinema One",Cinema One
+https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-name="Abante",Abante
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="Fil-Am TV",Fil-Am TV
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-name="Bilyonaryo News",Bilyonaryo News
+https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-name="LAC",LAC
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-name="Vegas Live TV",Vegas Live TV
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Viva",Viva
+https://streams.comclark.com/pknsd/viva/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-name="NHK World",NHK World
+https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-name="Nick Jr",Nick Jr
+https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-name="One Media",One Media
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-name="Teleradyo Serbisyo",Teleradyo Serbisyo
+https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
+#EXTINF:-1 group-title="Philippine FTA" tvg-name="Mindanow",Mindanow
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Series" tvg-name="TAP Edge",TAP Edge
+https://streams.comclark.com/pknsd/tapedge/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Series" tvg-name="TAP TV",TAP TV
+https://streams.comclark.com/pknsd/taptv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="TAP Action Flix",TAP Action Flix
+https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="TAP Movies",TAP Movies
+https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="TAP Sports",TAP Sports
+https://streams.comclark.com/pknsd/tapsports/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-name="CGTN",CGTN
+https://streams.comclark.com/pknsd/cgtn/playlist.m3u8
+#EXTINF:-1 group-title="Movies & Series" tvg-name="AXN HD",AXN HD
+https://streams.comclark.com/pknhd/axn/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-name="Arirang",Arirang
+https://streams.comclark.com/pknsd/arirang/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-name="ABC Australia",ABC Australia
+https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-name="EuroNews",EuroNews
+https://streams.comclark.com/pknsd/euronews/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-name="EWTN",EWTN
+https://streams.comclark.com/pknsd/ewtn/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-name="TBN",TBN
+https://streams.comclark.com/pknsd/tbn/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-name="CNN HD",CNN HD
+https://streams.comclark.com/pknhd/cnn_hd/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-name="CGTN Documentary",CGTN Documentary
+https://streams.comclark.com/pknsd/cgtn_documentary/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-name="Lotus Macau HD",Lotus Macau HD
+https://streams.comclark.com/pknhd/lotus_macau_hd/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Premier Football HD",Premier Football HD
+https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Premier Sports HD",Premier Sports HD
+https://streams.comclark.com/pknhd/premier_sports/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-name="TV Maria",TV Maria
+https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-name="Channel News Asia",Channel News Asia
+https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Edge Sports",Edge Sports
+https://streams.comclark.com/pknsd/edgesports/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Nudge Sports",Nudge Sports
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-name="3ABN",3ABN
+https://streams.comclark.com/pknsd/3abn/playlist.m3u8
